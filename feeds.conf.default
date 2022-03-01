@@ -9,3 +9,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git small8 https://github.com/kenzok8/small-package
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
+src-git liuran001_packages https://github.com/liuran001/openwrt-packages
